@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction Model Using Machine Learning
 
 
 This GitHub repository contains a comprehensive machine learning model for predicting heart disease based on various patient attributes. The model is built using Python and follows a structured workflow. Below, you'll find detailed information on each aspect of this project.
